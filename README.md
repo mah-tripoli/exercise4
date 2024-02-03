@@ -1,6 +1,4 @@
-#  Book Rental Library
-
-## Exercise 4: 
+#  Book Rental Library - Exercise 4
 
 Enhance the book rental library application by implementing various advanced features. Add support for different languages, send email notifications to users, utilize event-driven programming for various actions, and manage file storage for digital assets like book covers or digital copies.
 
